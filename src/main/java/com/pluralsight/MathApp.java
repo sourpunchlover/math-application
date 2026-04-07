@@ -3,8 +3,9 @@ package com.pluralsight;
 public class MathApp {
     public static void main(String[] args) {
         //Question 1:
-        long bobSalary = 140000;
-        long garySalary = 165000;
-        long highestSalary = 200000;
+        long bobSalary = 140000L;
+        long garySalary = 165000L;
+        long highestSalary = 200000L;
+        System.out.println(Math.max(bobSalary, garySalary));
     }
 }
