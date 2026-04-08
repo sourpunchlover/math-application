@@ -8,6 +8,12 @@ public class MathApp {
         long highestSalary = 165000L;
         System.out.println(Math.max(bobSalary, garySalary));
 
-        //Question 2
+        //Question 2:
+        int //will come back to this one
+
+        //Question 3:
+        float radius = 7.25f;
+
+
     }
 }
