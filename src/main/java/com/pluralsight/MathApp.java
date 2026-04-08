@@ -31,6 +31,13 @@ public class MathApp {
         double some_random_num = 5.0;
         System.out.println("What is the square root of" + " " + some_random_num + "?");
         System.out.println("The square root of 5.0 is" +" " + Math.sqrt(some_random_num) + ".");
+        System.out.println();
+
+        //Question 5:
+        int point_one = 5;
+        System.out.println("Point one =" + " " + point_one);
+        int point_two = 10;
+        System.out.println();
 
 
 
