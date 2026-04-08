@@ -7,5 +7,7 @@ public class MathApp {
         long garySalary = 165000L;
         long highestSalary = 165000L;
         System.out.println(Math.max(bobSalary, garySalary));
+
+        //Question 2
     }
 }
