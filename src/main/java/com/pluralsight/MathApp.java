@@ -29,6 +29,8 @@ public class MathApp {
 
         //Question 4:
         double some_random_num = 5.0;
+        System.out.println("What is the square root of" + " " + some_random_num + "?");
+        System.out.println("The square root of 5.0 is" +" " + Math.sqrt(some_random_num) + ".");
 
 
 
