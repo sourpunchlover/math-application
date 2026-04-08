@@ -12,7 +12,7 @@ public class MathApp {
         //will come back to this one
 
         //Question 3:
-        float radius = 7.25f;
+        double radius = 7.25;
 
 
 
