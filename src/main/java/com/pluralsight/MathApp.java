@@ -21,7 +21,9 @@ public class MathApp {
 
         //Question 3:
         double radius = 7.25;
+        System.out.println("The radius is" + " " + radius + ".");
         double area = Math.PI * radius * radius;
+        System.out.println("The area is" + " " + area + ".");
         System.out.println("The area of a circle when radius is given is" + " " + area + ".");
         System.out.println();
 
